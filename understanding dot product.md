@@ -106,12 +106,12 @@ $$
 
 ##  초평면(hyperplane)
 
-닷프로덕트를 
+닷 프로덕트를 이해하고 있으면 기하학 문제를 쉽게 풀 수 있는 게 많다. 가장 좋은 예가 초평면이다. 예를 들어 3차원 공간에서 점 $\mathbf{x}^0 = (x_1^0, x_2^0, x_3^0)$를 지나면서 벡터 $\mathbf{p} = (p_1, p_2, p_3)$dp 
 $\mathbf{p} \cdot \mathbf{x} = 0$ 는 두 벡터의 닷 프로덕트가 0이 된다는 뜻이다. 기하적으로는 무슨 의미일까? 만일 $\mathbf{x}$를 그림으로 표현했다고 해보자. 
 
 
 
 Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMjUwNzI1LDE5NjMyOTM1MzJdfQ==
+eyJoaXN0b3J5IjpbLTEyNDAyMjU2NTUsMTk2MzI5MzUzMl19
 -->
