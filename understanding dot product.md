@@ -106,11 +106,12 @@ $$
 
 ##  초평면(hyperplane)
 
-$\mathbf{p}$
+닷프로덕트를 
+$\mathbf{p} \cdot \mathbf{x} = 0$ 는 두 벡터의 닷 프로덕트가 0이 된다는 뜻이다. 기하적으로는 무슨 의미일까? 만일 $\mathbf{x}$를 그림으로 표현했다고 해보자. 
 
 
 
 Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjYzNTk5MzgsMTk2MzI5MzUzMl19
+eyJoaXN0b3J5IjpbLTQwMjUwNzI1LDE5NjMyOTM1MzJdfQ==
 -->
