@@ -112,12 +112,13 @@ $$
 \mathbf{p} \cdot (\mathbf{x} - \mathbf{x}^0) = 0 
 $$
 
-평면 $\mathbf x$가 $\mathbf{x}^0$를 지나는 것은 분명하다. 이 평면이 $\mathbf{x}^0$에서 수직이라는 것은 두 벡터의 닷프
-$\mathbf{p} \cdot \mathbf{x} = 0$ 는 두 벡터의 닷 프로덕트가 0이 된다는 뜻이다. 기하적으로는 무슨 의미일까? 만일 $\mathbf{x}$를 그림으로 표현했다고 해보자. 
+평면 $\mathbf x$가 $\mathbf{x}^0$를 지나는 것은 분명하다. 이 평면이 $\mathbf{p}$에 수직이라는 것은 두 벡터의 닷 프로덕트가 0이 되면 된다. 
+
+
 
 
 
 Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTA5NTQ3NzMsMTk2MzI5MzUzMl19
+eyJoaXN0b3J5IjpbMTg3NTkxNjExMSwxOTYzMjkzNTMyXX0=
 -->
