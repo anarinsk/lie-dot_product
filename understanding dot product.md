@@ -5,6 +5,11 @@
 2019-07-18
 Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 
+# tl;dr 
+
+- 닷 프로덕트 혹은 내적을 기하적으로 이해할 예정이야. 
+- 얼핏보면 닷 프로덕트의 형태가 이해가 안가지만 기하학적으로 이해하면 조금 이해가 쉬울 거야. 
+
 # 닷 프로덕트 
 
 dot product는 내적이라고도 번역하지만 여기서는 닷 프로덕트로 쓰기로 하겠다. 먼저 정의부터 살펴보자. 
@@ -87,7 +92,9 @@ $$
 
 정의를 바꿔 약간 헷갈릴 수 있겠지만, 취지를 이해하는 데에는 큰 문제가 없을 것이다. 
 
-# Cosine 유사도 
+# 응용 
+
+## Cosine 유사도 
 
 두 개의 벡터가 얼마나 유사한지를 나타내는 지표로 코사인 유사도라는 게 있다. 위에서 보듯이 두 개의 벡터($\mathbf v, \mathbf u$)가 이루는 각 $\theta$의 코사인 값은 다음과 같다. 
 
@@ -97,9 +104,11 @@ $$
 
 두 벡터가 가까울수록 코사인 값이 1에 가깝게 될 것이고, 멀수록 -1에 가깝게 될 것이다. 
 
+## 
+
 
 
 Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MzI5MzUzMl19
+eyJoaXN0b3J5IjpbLTM1OTAwMzg2MiwxOTYzMjkzNTMyXX0=
 -->
