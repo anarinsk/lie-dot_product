@@ -7,7 +7,7 @@ Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 
 # tl;dr 
 
-- 닷 프로덕트 혹은 내적을 기하적으로 이해할 예정이야. 
+- 닷 프로덕트 혹은 내적을 기하적으로 이해하면 여러모로 편리해. 
 - 얼핏보면 닷 프로덕트의 형태가 이해가 안가지만 기하학적으로 이해하면 조금 이해가 쉬울 거야. 
 
 # 닷 프로덕트 
@@ -118,6 +118,7 @@ $$
 
 Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNDYxNzE3NiwtMzI3ODk0Mzg1LDIwOT
-E0NDkzMTMsMTg3NTkxNjExMSwxOTYzMjkzNTMyXX0=
+eyJoaXN0b3J5IjpbLTg0NTA3ODgxNSwtODM0NjE3MTc2LC0zMj
+c4OTQzODUsMjA5MTQ0OTMxMywxODc1OTE2MTExLDE5NjMyOTM1
+MzJdfQ==
 -->
