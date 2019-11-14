@@ -104,11 +104,13 @@ $$
 
 두 벡터가 가까울수록 코사인 값이 1에 가깝게 될 것이고, 멀수록 -1에 가깝게 될 것이다. 
 
-## 
+##  초평면(hyperplane)
+
+$\mathbf{p}$
 
 
 
 Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTAwMzg2MiwxOTYzMjkzNTMyXX0=
+eyJoaXN0b3J5IjpbLTE3MjYzNTk5MzgsMTk2MzI5MzUzMl19
 -->
