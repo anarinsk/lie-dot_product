@@ -114,10 +114,10 @@ $$
 
 평면 $\mathbf x$가 $\mathbf{x}^0$를 지나는 것은 분명하다. 이 평면이 $\mathbf{p}$에 수직이라는 것은 두 벡터의 닷 프로덕트가 0이 되면 된다. 
 
-!![hyperplane.jpg](https://github.com/anarinsk/lie-dot_product/blob/master/assets/images/hyperplane.jpg?raw=true)
+![hyperplane.jpg](https://github.com/anarinsk/lie-dot_product/blob/master/assets/images/hyperplane.jpg?raw=true)
 
 Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNzg5NDM4NSwyMDkxNDQ5MzEzLDE4Nz
-U5MTYxMTEsMTk2MzI5MzUzMl19
+eyJoaXN0b3J5IjpbLTgzNDYxNzE3NiwtMzI3ODk0Mzg1LDIwOT
+E0NDkzMTMsMTg3NTkxNjExMSwxOTYzMjkzNTMyXX0=
 -->
