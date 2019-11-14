@@ -106,12 +106,18 @@ $$
 
 ##  초평면(hyperplane)
 
-닷 프로덕트를 이해하고 있으면 기하학 문제를 쉽게 풀 수 있는 게 많다. 가장 좋은 예가 초평면이다. 예를 들어 3차원 공간에서 점 $\mathbf{x}^0 = (x_1^0, x_2^0, x_3^0)$를 지나면서 벡터 $\mathbf{p} = (p_1, p_2, p_3)$dp 
+닷 프로덕트를 이해하고 있으면 기하학 문제를 쉽게 풀 수 있는 게 많다. 가장 좋은 예가 초평면이다. 예를 들어 3차원 공간에서 점 $\mathbf{x}^0 = (x_1^0, x_2^0, x_3^0)$를 지나면서 벡터 $\mathbf{p} = (p_1, p_2, p_3)$에 수직인 평면을 찾고 있다고 하자. 복잡해보이지만 닷 프로덕트를 활용하면 쉽게 풀린다. 즉, 
+
+$$
+\mathbf{p} \cdot (\mathbf{x} - \mathbf{x}^0) = 0 
+$$
+
+$\mathbf{x}^0$를 지나는 것은 분명하다. 이렇게 변형된 
 $\mathbf{p} \cdot \mathbf{x} = 0$ 는 두 벡터의 닷 프로덕트가 0이 된다는 뜻이다. 기하적으로는 무슨 의미일까? 만일 $\mathbf{x}$를 그림으로 표현했다고 해보자. 
 
 
 
 Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDAyMjU2NTUsMTk2MzI5MzUzMl19
+eyJoaXN0b3J5IjpbOTk1NzM5OTE5LDE5NjMyOTM1MzJdfQ==
 -->
