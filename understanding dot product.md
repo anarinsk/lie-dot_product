@@ -82,9 +82,8 @@ $$
 
 이제 (1,1)에서 벡터 $\mathbf u$로 프로젝션을 해보자. (1,1)은 각각 두 개의 기저를 1의 가중치로 선형결합한 벡터다. 이 벡터의 프로젝션의 길이는 어떻게 구성될까? 그림에서 보듯이 $u_x + u_y$가 된다. 이를 일반적인 논리로 확장해보자. 어떤 임의의 벡터 $\mathbf v(=(x,y))$가 존재할 때 해당 벡터는 각각 두 개의 기저의 선형 결합으로 이해할 수 있다. 
 
-![enter image description here](https://github.com/anarinsk/public_writing/blob/master/assets/images/dot_3.jpg?raw=true =500x)
 <p align="center"><kbd>
-  <img src="https://github.com/anarinsk/public_writing/blob/master/assets/images/dot_2.jpg?raw=true" width="500">
+  <img src="https://github.com/anarinsk/public_writing/blob/master/assets/images/dot_3.jpg?raw=true" width="500">
 </kbd></p>
 
 
@@ -124,14 +123,13 @@ $$
 
 평면 $\mathbf x$가 $\mathbf{x}^0$를 지나는 것은 분명하다. 이 평면이 $\mathbf{p}$에 수직이라는 것은 두 벡터의 닷 프로덕트가 0이 되면 된다. 
 
-![hyperplane.jpg](https://github.com/anarinsk/lie-dot_product/blob/master/assets/images/hyperplane.jpg?raw=true)
 <p align="center"><kbd>
-  <img src="http://blogs.jccc.edu/rgrondahl/files/2012/02/perpendicularprojection.jpg" width="400">
+  <img src="https://github.com/anarinsk/lie-dot_product/blob/master/assets/images/hyperplane.jpg?raw=true" width="600">
 </kbd></p>
 
 Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NTU1NjIyMSwtODQ1MDc4ODE1LC04Mz
-Q2MTcxNzYsLTMyNzg5NDM4NSwyMDkxNDQ5MzEzLDE4NzU5MTYx
-MTEsMTk2MzI5MzUzMl19
+eyJoaXN0b3J5IjpbLTE3NDM3MTE0MjksLTg0NTA3ODgxNSwtOD
+M0NjE3MTc2LC0zMjc4OTQzODUsMjA5MTQ0OTMxMywxODc1OTE2
+MTExLDE5NjMyOTM1MzJdfQ==
 -->
