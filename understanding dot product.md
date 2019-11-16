@@ -29,7 +29,9 @@ $$
 
 쉽게 말해서 닷 프로덕트는 차원이 같은 두 개의 인풋 벡터를 하나의 스칼라로 바꿔주는 일종의 함수로 이해할 수 있다. 두 개의 벡터를 서로 연관 짓는데 이를 해당 벡터의 길이라는 정보로 압축한다고 보면 얼추 맞을 듯 싶다. 하나의 숫자로 요약된다는 뜻에서 스칼라 프로덕트라고도 불린다. 그림으로 나타내면 아래와 같다. 
 
-![enter image description here](http://blogs.jccc.edu/rgrondahl/files/2012/02/perpendicularprojection.jpg)
+<p align="center"><kbd>
+  <img src="http://blogs.jccc.edu/rgrondahl/files/2012/02/perpendicularprojection.jpg" width="400">
+</kbd></p>
 
 $\mathbf{u}$ 벡터를 $\mathbf v$ 벡터 위에 직각으로 쏜 프로젝션 벡터($\mathrm{Proj}_{v}{u}$)의 길이와 $\mathbf v$ 길이를 곱하면 그것이 $\mathbf u$와 $\mathbf v$의 닷 프로덕트가 된다. 어느 벡터로 프로젝션 하는지는 관계가 없다. (조금만 생각해보시라!) 즉,  식으로 보면, $\mathbf u \cdot \mathbf v = \mathbf v \cdot \mathbf u$. 
 
@@ -118,7 +120,7 @@ $$
 
 Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NTA3ODgxNSwtODM0NjE3MTc2LC0zMj
-c4OTQzODUsMjA5MTQ0OTMxMywxODc1OTE2MTExLDE5NjMyOTM1
-MzJdfQ==
+eyJoaXN0b3J5IjpbLTEzNzM2MTk5NzgsLTg0NTA3ODgxNSwtOD
+M0NjE3MTc2LC0zMjc4OTQzODUsMjA5MTQ0OTMxMywxODc1OTE2
+MTExLDE5NjMyOTM1MzJdfQ==
 -->
